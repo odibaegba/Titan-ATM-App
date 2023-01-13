@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TitanATMApp", "TitanATMApp\TitanATMApp.csproj", "{33E7A312-494D-4C9D-B6ED-B26FD20B4A78}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BAB96401-267A-40C8-85AF-C8F300E1C434}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33E7A312-494D-4C9D-B6ED-B26FD20B4A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E7A312-494D-4C9D-B6ED-B26FD20B4A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E7A312-494D-4C9D-B6ED-B26FD20B4A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E7A312-494D-4C9D-B6ED-B26FD20B4A78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9E21763-FD78-4078-BCAD-03ED435A4DE5}
+	EndGlobalSection
+EndGlobal
